@@ -72,7 +72,7 @@ body{
 }
 .divcontact{
     height:100%;
-    width:50%;
+    width:33%;
     border:1px solid;
     text-align:center;
     font-size:30px;
@@ -99,8 +99,9 @@ body{
     margin: 50px auto;
 }
 
-ol {
-    list-style: none;
+li {
+    font-size:25px;
+    color:rgb(0, 64, 32);
 }
 
 .minititle {
