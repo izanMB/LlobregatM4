@@ -1,0 +1,116 @@
+body{
+    background-color:rgb(199, 255, 211);
+    margin:0;
+}
+.divinicial{
+    position:sticky;
+    display:flex;
+    height:100px;
+}
+.palimage{
+    background-color:rgb(87, 255, 137);
+    width:30%;
+}
+.titulo{
+    color:white;
+    background-color:rgb(87, 255, 137);
+    width:60%;
+    height:100%;
+    padding-left:30px;
+    line-height:15px;
+}
+.boton{
+    width:15%;
+    height:100%;
+    background-color:rgb(149, 255, 167);
+    text-align:center;
+    font-size:150%;
+}
+.divinfo{
+    width:100%;
+    height:aut;
+    display:flex;
+    background-color:rgb(149, 255, 167);
+}
+.divinfo1{
+    height:100%;
+    width:70%;
+}
+.divinfo2{
+    height:100%;
+    width:30%;
+}
+.titext{
+    font-size:40px;
+    color:rgb(0, 99, 16);
+    font-weight:bold;
+}
+.supertitulo{
+    font-size:80px;
+    color:rgb(0, 99, 16);
+    font-weight:bold;
+    margin: auto;
+    width:100%;
+    height:200;
+}
+.subtext{
+    font-size:25px;
+    color:rgb(0, 64, 32);
+}
+.espacio{
+    width:100%;
+    height:200;
+}
+.pie{
+    height:200px;
+    width:100%;
+    background-color:rgb(87, 255, 137);
+    color:rgb(0, 64, 32);
+    font-size:30px;
+    padding-top:95px;
+    text-align: center;
+}
+.divcontact{
+    height:100%;
+    width:50%;
+    border:1px solid;
+    text-align:center;
+    font-size:30px;
+}
+.divredes{
+    height:100%;
+    width:25%;
+    text-align:center;
+    font-size:25px;
+}
+.espacioP{
+    width:100%;
+    height:30;
+}
+.espacioP2{
+    width:100%;
+    height:90;
+}
+.box_form{
+    max-width: 500px;
+    background-color:rgba(87, 255, 137, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+
+ol {
+    list-style: none;
+}
+
+.minititle {
+    color: rgb(0, 99, 16);
+}
+
+.divimggaleria{
+    height:100%;
+    width:25%;
+    text-align:center;
+    font-size:25px;
+    border: 3px solid;
+}
